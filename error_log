@@ -1,0 +1,2 @@
+[05-Feb-2020 17:33:25 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_theme_enqueue_styles' not found or invalid function name in /home/b6rkittv6bhh/public_html/wordpress.padminismith.com/wp-includes/class-wp-hook.php on line 288
+[05-Feb-2020 20:56:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'random_scripts_method' not found or invalid function name in /home/b6rkittv6bhh/public_html/wordpress.padminismith.com/wp-includes/class-wp-hook.php on line 288

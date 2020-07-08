@@ -1,0 +1,24 @@
+/*
+ Theme Name:   codex-child
+ Theme URI:    http://www.cryoutcreations.eu/wordpress-theme/roseta
+ Description:  Codex Child Theme
+ Author:       Padmini Smith
+ Author URI:   http://wordpress.padminismith.com
+ Template:     roseta
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  codex
+*/
+
+body{
+    font-style: italic;
+    background: red;
+}
+
+#access > div > ul > li > a > span::before,
+#site-title::before,
+#site-title::after {
+    height: 15px;
+}
